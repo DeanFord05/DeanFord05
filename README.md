@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dean Ford
-- 👀 I’m interested in Data Anylitics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analysis and Engineering
 - 📫 How to reach me deanford05@gmail.com
 
